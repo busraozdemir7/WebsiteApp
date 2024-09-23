@@ -5,5 +5,3 @@
 ### Screen
 
 <img src="screen.gif" />
-
-
